@@ -25,7 +25,10 @@ namespace DemoActivity
         }
         static void Falguni()
         {
+            Area a = new Area();
+            a.area();
             Console.WriteLine("Falguni code");
+            Console.ReadLine();
         }
     }
 }
