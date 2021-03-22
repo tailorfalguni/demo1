@@ -23,5 +23,9 @@ namespace DemoActivity
         {
             Console.WriteLine("Mrunal code");
         }
+        static void Falguni()
+        {
+            Console.WriteLine("Falguni code");
+        }
     }
 }
