@@ -8,9 +8,15 @@ namespace DemoActivity
 {
     class Program
     {
+        static void Megha()
+        {
+            Console.WriteLine("Megha's code");
+        }
         static void Main(string[] args)
         {
+            Megha();
             Console.WriteLine("This is a demo activity");
+            Console.Read();
 
         }
     }
