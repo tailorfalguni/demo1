@@ -14,8 +14,11 @@ namespace DemoActivity
         }
         static void Main(string[] args)
         {
-            Megha();
+            
             Console.WriteLine("This is a demo activity");
+            Megha();
+            Mrunal();
+            Falguni();
             Console.Read();
 
         }
