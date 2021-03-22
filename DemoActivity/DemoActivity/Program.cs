@@ -19,5 +19,9 @@ namespace DemoActivity
             Console.Read();
 
         }
+        static void Mrunal()
+        {
+            Console.WriteLine("Mrunal code");
+        }
     }
 }
