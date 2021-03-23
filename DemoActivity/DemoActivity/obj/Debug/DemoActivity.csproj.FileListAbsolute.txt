@@ -1,0 +1,7 @@
+D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\bin\Debug\DemoActivity.exe.config
+D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\bin\Debug\DemoActivity.exe
+D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\bin\Debug\DemoActivity.pdb
+D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.csprojAssemblyReference.cache
+D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.csproj.CoreCompileInputs.cache
+D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.exe
+D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.pdb

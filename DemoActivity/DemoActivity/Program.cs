@@ -34,9 +34,15 @@ namespace DemoActivity
             Console.WriteLine("Jenkins demo");
             Console.ReadLine();
         }
-        static void Mrunalnew()
+        static void Mrunal1()
         {
-            Console.WriteLine("Mrunal added this new code");
+            Console.WriteLine("Mrunal code");
         }
+        static void Mrunal2()
+        {
+            Console.WriteLine("Mrunal code");
+        }
+
+
     }
 }
