@@ -11,11 +11,13 @@ namespace DemoActivity
         static void Megha()
         {
             Console.WriteLine("Megha's code");
+            Console.WriteLine("Jenkin's demo");
         }
         static void Main(string[] args)
         {
             
             Console.WriteLine("This is a demo activity");
+            
             Megha();
             Mrunal();
             Falguni();
@@ -30,6 +32,7 @@ namespace DemoActivity
         {
             Area a = new Area();
             a.area();
+            a.C_area();
             Console.WriteLine("Falguni code");
             Console.WriteLine("Jenkins demo");
             Console.ReadLine();
