@@ -16,6 +16,7 @@ namespace DemoActivity
         {
             
             Console.WriteLine("This is a demo activity");
+            
             Megha();
             Mrunal();
             Falguni();
@@ -30,6 +31,7 @@ namespace DemoActivity
         {
             Area a = new Area();
             a.area();
+            a.C_area();
             Console.WriteLine("Falguni code");
             Console.WriteLine("Jenkins demo");
             Console.ReadLine();
