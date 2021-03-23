@@ -5,3 +5,10 @@ D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.cspr
 D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.csproj.CoreCompileInputs.cache
 D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.exe
 D:\LTI bootcamp 2\gitedemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.pdb
+C:\Users\hp\Desktop\.net training\CloneDemo\DemoActivity\DemoActivity\bin\Debug\DemoActivity.exe.config
+C:\Users\hp\Desktop\.net training\CloneDemo\DemoActivity\DemoActivity\bin\Debug\DemoActivity.exe
+C:\Users\hp\Desktop\.net training\CloneDemo\DemoActivity\DemoActivity\bin\Debug\DemoActivity.pdb
+C:\Users\hp\Desktop\.net training\CloneDemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\.net training\CloneDemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\.net training\CloneDemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.exe
+C:\Users\hp\Desktop\.net training\CloneDemo\DemoActivity\DemoActivity\obj\Debug\DemoActivity.pdb
