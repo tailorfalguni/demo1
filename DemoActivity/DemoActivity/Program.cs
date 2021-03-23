@@ -30,5 +30,9 @@ namespace DemoActivity
         {
             Console.WriteLine("Falguni code");
         }
+        static void Mrunalnew()
+        {
+            Console.WriteLine("Mrunal added this new code");
+        }
     }
 }
