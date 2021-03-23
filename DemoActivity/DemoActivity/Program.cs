@@ -21,6 +21,8 @@ namespace DemoActivity
             Megha();
             Mrunal();
             Falguni();
+            Mrunal1();
+            Mrunal2();
             Console.Read();
 
         }
