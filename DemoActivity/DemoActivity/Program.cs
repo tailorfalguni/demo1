@@ -35,6 +35,7 @@ namespace DemoActivity
             a.C_area();
             Console.WriteLine("Falguni code");
             Console.WriteLine("Jenkins demo");
+            Console.WriteLine("Azure demo");
             Console.ReadLine();
         }
         static void Mrunal1()
